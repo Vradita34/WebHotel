@@ -12,7 +12,7 @@ if ($_SESSION['user_type'] != 'tamu') {
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Admin Dashboard</title>
+    <title>Tamu Dashboard</title>
     <!-- ======= Styles ====== -->
     <link rel="stylesheet" href="../assets/css/admin.css">
     <link rel="stylesheet" href="../assets/css/button.css">
